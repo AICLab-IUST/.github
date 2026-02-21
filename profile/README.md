@@ -1,4 +1,4 @@
-# Artificial Intelligence and Control Laboratory
+# AI and Control Research Laboratory
 
 <img src="https://github.com/AICLab-IUST/.github/blob/main/images/logo.jpg" width="700">
 

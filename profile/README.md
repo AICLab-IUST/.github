@@ -6,6 +6,6 @@ The Artificial Intelligence and Control Laboratory conducts research on AI‑bas
 
 The lab develops theoretical and applied research projects and actively publishes in peer‑reviewed international journals and conferences. It also offers undergraduate and graduate‑level courses, including Linear Control Systems, Principles of Mechatronics, Reinforcement Learning in Control, Model Predictive Control, and Convex Optimization.
 
-Course‑specific repositories and projects are organized under dedicated sub‑organizations for <a href="https://github.com/RLinControl">Reinforcement Learning in Control</a>and <a href="https://github.com/LinearControlSystems">Linear Control Systems</a>.
+Course‑specific repositories and projects are organized under dedicated sub‑organizations for <a href="https://github.com/RLinControl">Reinforcement Learning in Control</a> and <a href="https://github.com/LinearControlSystems">Linear Control Systems</a>.
 
 For detailed information <a href="http://AICLab-IUST.github.io">click</a>!

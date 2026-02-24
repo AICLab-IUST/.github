@@ -2,10 +2,12 @@
 
 # AI and Control Research Laboratory
 
-<img
-  src="https://github.com/AICLab-IUST/.github/blob/main/images/logo.png"
-  width="500"
-  style="filter: drop-shadow(0 0 6px rgba(0,0,0,0.6));">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AICLab-IUST/.github/blob/main/images/logo_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AICLab-IUST/.github/blob/main/images/logo_light.png">
+  <img src="https://github.com/AICLab-IUST/.github/blob/main/images/logo_dark.png" width="500">
+</picture>
+
 
 At the **AI and Control Research Laboratory (AIC Lab)** at **Iran University of Science and Technology**, we conduct research on **AI-based and data-driven control**, **reinforcement learning**, **autonomous robotics**, **safe navigation**, **multi-agent systems**, and **optimal control**, supported by strong theoretical and mathematical foundations.  
 
